@@ -1,7 +1,7 @@
 #                       Hey There.
 
 
-#  we   are   getting  there.
+#  Am   are   getting  there  soon.
 
 <!--
 **Fr1cky/Fr1cky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
